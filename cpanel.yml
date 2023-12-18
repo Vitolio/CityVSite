@@ -2,6 +2,6 @@
 deployment:
   tasks:
     
-export DEPLOYPATH=/home/example/public_html/
+export DEPLOYPATH=/home/ewrqmgzl/test
 /bin/cp -R images $DEPLOYPATH
-/home/ewrqmgzl/test
+
