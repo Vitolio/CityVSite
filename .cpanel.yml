@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ewrqmgzl/test
+    - export DEPLOYPATH=/home/ewrqmgzl/test_2
     - /bin/cp -R images $DEPLOYPATH
